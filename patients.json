@@ -1,0 +1,92 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Rahul Sharma",
+    "age": 45,
+    "gender": "Male",
+    "cancer_type": "Lung Cancer",
+    "stage": "Stage II",
+    "city": "Delhi"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Verma",
+    "age": 38,
+    "gender": "Female",
+    "cancer_type": "Breast Cancer",
+    "stage": "Stage I",
+    "city": "Mumbai"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Amit Kumar",
+    "age": 52,
+    "gender": "Male",
+    "cancer_type": "Colon Cancer",
+    "stage": "Stage III",
+    "city": "Lucknow"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Sneha Gupta",
+    "age": 41,
+    "gender": "Female",
+    "cancer_type": "Breast Cancer",
+    "stage": "Stage II",
+    "city": "Jaipur"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Vikram Singh",
+    "age": 60,
+    "gender": "Male",
+    "cancer_type": "Prostate Cancer",
+    "stage": "Stage II",
+    "city": "Chandigarh"
+  },
+  {
+    "patient_id": "P006",
+    "name": "Neha Mishra",
+    "age": 35,
+    "gender": "Female",
+    "cancer_type": "Thyroid Cancer",
+    "stage": "Stage I",
+    "city": "Kanpur"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Rohit Yadav",
+    "age": 49,
+    "gender": "Male",
+    "cancer_type": "Liver Cancer",
+    "stage": "Stage III",
+    "city": "Patna"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Pooja Agarwal",
+    "age": 44,
+    "gender": "Female",
+    "cancer_type": "Ovarian Cancer",
+    "stage": "Stage II",
+    "city": "Kolkata"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Arjun Tiwari",
+    "age": 57,
+    "gender": "Male",
+    "cancer_type": "Stomach Cancer",
+    "stage": "Stage IV",
+    "city": "Bhopal"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Kavita Joshi",
+    "age": 50,
+    "gender": "Female",
+    "cancer_type": "Cervical Cancer",
+    "stage": "Stage III",
+    "city": "Pune"
+  }
+]
